@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+start_bot.vbs
+.pytest_cache/
+.vscode/
