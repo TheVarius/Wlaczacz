@@ -1,6 +1,6 @@
 # Projekt: Zdalny Włączacz PC (Bot Discord)
 
-[![Tests](https://github.com/TheVarius/Wylaczacz/actions/workflows/pytest.yml/badge.svg)](https://github.com/TheVarius/Wylaczacz/actions)
+[![Tests](https://github.com/TheVarius/Wlaczacz/actions/workflows/pytest.yml/badge.svg)](https://github.com/TheVarius/Wlaczacz/actions)
 
 ## Opis zadania
 
